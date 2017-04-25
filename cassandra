@@ -1,3 +1,6 @@
 1. Setup:
 Change data, commitlog nad saved_caches paths
 Remember to prefix data path with '-' in new line 
+
+2. Transactions.
+http://docs.datastax.com/en/archived/cassandra/2.0/cassandra/dml/dml_ltwt_transaction_c.html
