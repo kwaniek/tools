@@ -1,0 +1,9 @@
+1. inetmgr
+IIS manager
+
+2. Create application
+1) https://www.iis.net/learn/install/installing-iis-7/installing-iis-on-windows-vista-and-windows-7
+2) https://www.iis.net/learn/extensions/database-manager/use-the-database-manager
+3) https://msdn.microsoft.com/en-us/library/dd465337(v=vs.110).aspx
+4) http://stackoverflow.com/a/7698316
+5) http://www.c-sharpcorner.com/uploadfile/d13d20/creating-aspnet-mvc-app-with-wcf-service-docx
