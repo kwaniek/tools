@@ -1,0 +1,1 @@
+Public available files from bottega about ddd.
