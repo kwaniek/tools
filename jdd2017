@@ -1,0 +1,4 @@
+1. Chat bots: chatfuel + wit.ai
+2. MQQT: async protocol to handle hude traffic.
+3. java 9 concurrent.Flow: like JPA, only interfaces, RxJava2/Akka/Reactor as interchangeable implementations.
+4. CQRS + Event Sourcing: pattern of application with full history presistence, Axon framework as example.
