@@ -1,0 +1,7 @@
+1. Exploit.db/nvd as source of outdated libraries.
+2. OWASP Dependency Check (for java) and Retire.js (for javascript) as tools to check if application has vulnerable libs as dependency.
+3. OWASP Detector as notification tool.
+4. HoneyTokens: for example - create not used table with fake data. If anyone queries it - fire alarm.
+5. Google YOLO, Fido U2F, OAuth, OpenID Connect.
+6. OWASP MASVS (mobile security standard) with MSTG (how to test against standard) with HackingPlayground (vulnerabilities examples).
+7. itsssl.com/BSBD0 - example CTF
