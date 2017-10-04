@@ -1,4 +1,13 @@
+Day 1:
 1. Chat bots: chatfuel + wit.ai
 2. MQQT: async protocol to handle hude traffic.
 3. java 9 concurrent.Flow: like JPA, only interfaces, RxJava2/Akka/Reactor as interchangeable implementations.
 4. CQRS + Event Sourcing: pattern of application with full history presistence, Axon framework as example.
+
+Day 2:
+1. Live coding: Making audio and video with pipelike project studio Praxis (Sonic Pi, TidalCycles) by Neil C Smith.
+1. Java 10? 'Minimal Value Types' Brian Goetz. John Rose 'Arrays 2.0'.
+2. DDD: books from Eric Evans, Greg Young, Weinberg Gerald, 'Rest in Practice', Alberto Brandolini 'Event Storiming',
+  Lakoff 'Metaphors we live by'. Nie ma głupich pytań, są tylko głupi ludzie.  
+3. Functional way of thinking: Category theory explained by Bartosz Milewski (blog category theory + youtube). 
+  So functional, so monadic, so slow. Trampoline pattern.
