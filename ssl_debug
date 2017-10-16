@@ -1,0 +1,2 @@
+ssl debug:
+java -Djavax.net.debug=all
